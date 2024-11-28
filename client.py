@@ -4,8 +4,6 @@ import getpass
 import base64
 import tkinter as tk
 from tkinter import ttk
-import argparse
-import time
 import gssapi
 from ntlm_auth.ntlm import NtlmContext
 
